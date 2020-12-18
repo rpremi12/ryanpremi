@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a60ee1eb15135ab413385fb8a91f9aa",
+    "revision": "5bc446ba64449d16a2e6bbd06d991785",
     "url": "/ryanpremi/index.html"
   },
   {
-    "revision": "28f119c2936041116dbf",
+    "revision": "6c7c04e9ae4e66c66cea",
     "url": "/ryanpremi/static/css/main.cdddddea.chunk.css"
   },
   {
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ryanpremi/static/js/2.a357f1cf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "28f119c2936041116dbf",
-    "url": "/ryanpremi/static/js/main.612f3336.chunk.js"
+    "revision": "6c7c04e9ae4e66c66cea",
+    "url": "/ryanpremi/static/js/main.dbe83e50.chunk.js"
   },
   {
     "revision": "8c60c6f8eede5792fff9",
     "url": "/ryanpremi/static/js/runtime-main.0fae4eac.js"
+  },
+  {
+    "revision": "635a4a3856282d065a1c3c67beab4d23",
+    "url": "/ryanpremi/static/media/PSU_logo2.635a4a38.png"
   },
   {
     "revision": "3ce357e71a836a86691b904396a8955c",
@@ -52,24 +56,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ryanpremi/static/media/feature-tile-icon-06.6a177696.svg"
   },
   {
-    "revision": "d9cb99ceb6a66250792ed78f5765325b",
-    "url": "/ryanpremi/static/media/features-split-image-01.d9cb99ce.png"
-  },
-  {
-    "revision": "3c569239f88160018f79029ba5dc227d",
-    "url": "/ryanpremi/static/media/features-split-image-02.3c569239.png"
-  },
-  {
-    "revision": "87e4d053756c60c9f421195d8eafdbfe",
-    "url": "/ryanpremi/static/media/features-split-image-03.87e4d053.png"
-  },
-  {
     "revision": "ea6949039d6554ebf2cf109f333f5811",
     "url": "/ryanpremi/static/media/illustration-section-01.ea694903.svg"
   },
   {
     "revision": "63d0555d90c053eea1a1a7469d004661",
     "url": "/ryanpremi/static/media/illustration-section-02.63d0555d.svg"
+  },
+  {
+    "revision": "ab1c96a829e14e7f9c52e20178e3d0b7",
+    "url": "/ryanpremi/static/media/logo-intel.ab1c96a8.jpg"
+  },
+  {
+    "revision": "180c68298ed0a51b85a7028892e9a8c2",
+    "url": "/ryanpremi/static/media/logo-transunion.180c6829.jpg"
   },
   {
     "revision": "2810a88b1d6365b363caeabe678f1629",
