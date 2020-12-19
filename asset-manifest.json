@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/ryanpremi/static/css/main.cdddddea.chunk.css",
-    "main.js": "/ryanpremi/static/js/main.25d4635c.chunk.js",
-    "main.js.map": "/ryanpremi/static/js/main.25d4635c.chunk.js.map",
+    "main.js": "/ryanpremi/static/js/main.f8276024.chunk.js",
+    "main.js.map": "/ryanpremi/static/js/main.f8276024.chunk.js.map",
     "runtime-main.js": "/ryanpremi/static/js/runtime-main.0fae4eac.js",
     "runtime-main.js.map": "/ryanpremi/static/js/runtime-main.0fae4eac.js.map",
-    "static/js/2.6e96ed45.chunk.js": "/ryanpremi/static/js/2.6e96ed45.chunk.js",
-    "static/js/2.6e96ed45.chunk.js.map": "/ryanpremi/static/js/2.6e96ed45.chunk.js.map",
+    "static/js/2.ac4bc9aa.chunk.js": "/ryanpremi/static/js/2.ac4bc9aa.chunk.js",
+    "static/js/2.ac4bc9aa.chunk.js.map": "/ryanpremi/static/js/2.ac4bc9aa.chunk.js.map",
     "index.html": "/ryanpremi/index.html",
-    "precache-manifest.32120c4aa0aa2a36b6a45108000124c0.js": "/ryanpremi/precache-manifest.32120c4aa0aa2a36b6a45108000124c0.js",
+    "precache-manifest.80e1adde2e09567896f90975a32d99b6.js": "/ryanpremi/precache-manifest.80e1adde2e09567896f90975a32d99b6.js",
     "service-worker.js": "/ryanpremi/service-worker.js",
     "static/css/main.cdddddea.chunk.css.map": "/ryanpremi/static/css/main.cdddddea.chunk.css.map",
-    "static/js/2.6e96ed45.chunk.js.LICENSE.txt": "/ryanpremi/static/js/2.6e96ed45.chunk.js.LICENSE.txt",
+    "static/js/2.ac4bc9aa.chunk.js.LICENSE.txt": "/ryanpremi/static/js/2.ac4bc9aa.chunk.js.LICENSE.txt",
     "static/media/PSU_logo2.png": "/ryanpremi/static/media/PSU_logo2.9fd285f0.png",
     "static/media/background1.jpg": "/ryanpremi/static/media/background1.94ee2657.jpg",
+    "static/media/calpoly.jpg": "/ryanpremi/static/media/calpoly.24012037.jpg",
     "static/media/style.scss": "/ryanpremi/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/ryanpremi/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/ryanpremi/static/media/feature-tile-icon-02.bd39f304.svg",
@@ -27,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0fae4eac.js",
-    "static/js/2.6e96ed45.chunk.js",
+    "static/js/2.ac4bc9aa.chunk.js",
     "static/css/main.cdddddea.chunk.css",
-    "static/js/main.25d4635c.chunk.js"
+    "static/js/main.f8276024.chunk.js"
   ]
 }
