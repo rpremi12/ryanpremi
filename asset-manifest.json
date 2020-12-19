@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/ryanpremi/static/css/main.cdddddea.chunk.css",
-    "main.js": "/ryanpremi/static/js/main.dbe83e50.chunk.js",
-    "main.js.map": "/ryanpremi/static/js/main.dbe83e50.chunk.js.map",
+    "main.js": "/ryanpremi/static/js/main.25d4635c.chunk.js",
+    "main.js.map": "/ryanpremi/static/js/main.25d4635c.chunk.js.map",
     "runtime-main.js": "/ryanpremi/static/js/runtime-main.0fae4eac.js",
     "runtime-main.js.map": "/ryanpremi/static/js/runtime-main.0fae4eac.js.map",
-    "static/js/2.a357f1cf.chunk.js": "/ryanpremi/static/js/2.a357f1cf.chunk.js",
-    "static/js/2.a357f1cf.chunk.js.map": "/ryanpremi/static/js/2.a357f1cf.chunk.js.map",
+    "static/js/2.6e96ed45.chunk.js": "/ryanpremi/static/js/2.6e96ed45.chunk.js",
+    "static/js/2.6e96ed45.chunk.js.map": "/ryanpremi/static/js/2.6e96ed45.chunk.js.map",
     "index.html": "/ryanpremi/index.html",
-    "precache-manifest.a6e13d1616d6931f9a30900c6405fe89.js": "/ryanpremi/precache-manifest.a6e13d1616d6931f9a30900c6405fe89.js",
+    "precache-manifest.32120c4aa0aa2a36b6a45108000124c0.js": "/ryanpremi/precache-manifest.32120c4aa0aa2a36b6a45108000124c0.js",
     "service-worker.js": "/ryanpremi/service-worker.js",
     "static/css/main.cdddddea.chunk.css.map": "/ryanpremi/static/css/main.cdddddea.chunk.css.map",
-    "static/js/2.a357f1cf.chunk.js.LICENSE.txt": "/ryanpremi/static/js/2.a357f1cf.chunk.js.LICENSE.txt",
-    "static/media/PSU_logo2.png": "/ryanpremi/static/media/PSU_logo2.635a4a38.png",
+    "static/js/2.6e96ed45.chunk.js.LICENSE.txt": "/ryanpremi/static/js/2.6e96ed45.chunk.js.LICENSE.txt",
+    "static/media/PSU_logo2.png": "/ryanpremi/static/media/PSU_logo2.9fd285f0.png",
+    "static/media/background1.jpg": "/ryanpremi/static/media/background1.94ee2657.jpg",
     "static/media/style.scss": "/ryanpremi/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/ryanpremi/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/ryanpremi/static/media/feature-tile-icon-02.bd39f304.svg",
@@ -20,14 +21,14 @@
     "static/media/feature-tile-icon-04.svg": "/ryanpremi/static/media/feature-tile-icon-04.836acd10.svg",
     "static/media/feature-tile-icon-05.svg": "/ryanpremi/static/media/feature-tile-icon-05.fa9ba00b.svg",
     "static/media/feature-tile-icon-06.svg": "/ryanpremi/static/media/feature-tile-icon-06.6a177696.svg",
-    "static/media/logo-intel.jpg": "/ryanpremi/static/media/logo-intel.ab1c96a8.jpg",
-    "static/media/logo-transunion.jpg": "/ryanpremi/static/media/logo-transunion.180c6829.jpg",
+    "static/media/logo-intel-2.jpg": "/ryanpremi/static/media/logo-intel-2.a4e51215.jpg",
+    "static/media/logo-transunion.jpg": "/ryanpremi/static/media/logo-transunion.d535a4b2.jpg",
     "static/media/logo.svg": "/ryanpremi/static/media/logo.2810a88b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0fae4eac.js",
-    "static/js/2.a357f1cf.chunk.js",
+    "static/js/2.6e96ed45.chunk.js",
     "static/css/main.cdddddea.chunk.css",
-    "static/js/main.dbe83e50.chunk.js"
+    "static/js/main.25d4635c.chunk.js"
   ]
 }
