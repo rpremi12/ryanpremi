@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ryanpremi/static/css/main.cdddddea.chunk.css",
-    "main.js": "/ryanpremi/static/js/main.0cfd8eb6.chunk.js",
-    "main.js.map": "/ryanpremi/static/js/main.0cfd8eb6.chunk.js.map",
+    "main.js": "/ryanpremi/static/js/main.425aa507.chunk.js",
+    "main.js.map": "/ryanpremi/static/js/main.425aa507.chunk.js.map",
     "runtime-main.js": "/ryanpremi/static/js/runtime-main.0fae4eac.js",
     "runtime-main.js.map": "/ryanpremi/static/js/runtime-main.0fae4eac.js.map",
     "static/js/2.ac4bc9aa.chunk.js": "/ryanpremi/static/js/2.ac4bc9aa.chunk.js",
     "static/js/2.ac4bc9aa.chunk.js.map": "/ryanpremi/static/js/2.ac4bc9aa.chunk.js.map",
     "index.html": "/ryanpremi/index.html",
-    "precache-manifest.ecf43de20c734d9681ababa0c1095658.js": "/ryanpremi/precache-manifest.ecf43de20c734d9681ababa0c1095658.js",
+    "precache-manifest.7cc5f7b987f00c135c13b3643a6635a5.js": "/ryanpremi/precache-manifest.7cc5f7b987f00c135c13b3643a6635a5.js",
     "service-worker.js": "/ryanpremi/service-worker.js",
     "static/css/main.cdddddea.chunk.css.map": "/ryanpremi/static/css/main.cdddddea.chunk.css.map",
     "static/js/2.ac4bc9aa.chunk.js.LICENSE.txt": "/ryanpremi/static/js/2.ac4bc9aa.chunk.js.LICENSE.txt",
@@ -23,13 +23,12 @@
     "static/media/feature-tile-icon-05.svg": "/ryanpremi/static/media/feature-tile-icon-05.fa9ba00b.svg",
     "static/media/feature-tile-icon-06.svg": "/ryanpremi/static/media/feature-tile-icon-06.6a177696.svg",
     "static/media/logo-intel-2.jpg": "/ryanpremi/static/media/logo-intel-2.a4e51215.jpg",
-    "static/media/logo-transunion.jpg": "/ryanpremi/static/media/logo-transunion.d535a4b2.jpg",
-    "static/media/logo.svg": "/ryanpremi/static/media/logo.2810a88b.svg"
+    "static/media/logo-transunion.jpg": "/ryanpremi/static/media/logo-transunion.d535a4b2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0fae4eac.js",
     "static/js/2.ac4bc9aa.chunk.js",
     "static/css/main.cdddddea.chunk.css",
-    "static/js/main.0cfd8eb6.chunk.js"
+    "static/js/main.425aa507.chunk.js"
   ]
 }
