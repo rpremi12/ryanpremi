@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38c493fea1de66146e5e49ff26bdd5d6",
+    "revision": "b77821d9fc3a2e6a748ca55b132ce0d5",
     "url": "/zobi_portfolio/index.html"
   },
   {
