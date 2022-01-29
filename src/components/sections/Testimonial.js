@@ -77,13 +77,9 @@ const FeaturesSplit = ({
                  <div className="text-xL text-color-primary fw-600 tt-u mb-8">
                                    </div>
 
-                     <h5 className="mt-0">
-                   GPA: 3.2 | Fall 2020 Dean's List 
-                  </h5>
-
-                <h4 className="mt-0 mb-12">
+                <h5 className="mt-0 mb-12">
                 Relevant Coursework: 
-                  </h4>
+                  </h5>
 
                   <p className='mt'>
 Data Structures, Object Oriented Programming, Database Modeling/Design/Implementation, Systems Programming, Design and Analysis of Algorithms, Intro to Artificial Intelligence, Intro to Software Engineering.

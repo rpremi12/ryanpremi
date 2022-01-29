@@ -64,6 +64,35 @@ const FeaturesSplit = ({
           <SectionHeader data={sectionHeader} className="center-content" />
           <div className={splitClasses}>
 
+        <div className="split-item">
+              <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
+                <div className="text-xl text-color-primary fw-600 tt-u mb-8">
+                  Google | February 2021 - Present
+                  </div>
+                <h3 className="mt-0 mb-12">
+                  Software Engineer, YouTube 
+                  </h3>
+                <p className="m-0">
+                 I am currently working on the YouTube team at Mountain View.
+                  </p>
+              </div>
+              <div className={
+                classNames(
+                  'split-item-image center-content-mobile reveal-from-bottom',
+                  imageFill && 'split-item-image-fill'
+                )}
+                data-reveal-container=".split-item">
+                <Image
+                  src={require('./../../assets/images/google.jpg')}
+                  alt="Features split 02"
+                  width={528}
+                  height={396} />
+              </div>
+            </div>
+
+
+
+
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xl text-color-primary fw-600 tt-u mb-8">
